@@ -5,11 +5,11 @@ TMDB Movie Revenue Forecast & Analysis
 This project provides a data-driven investigation into the factors that drive financial success in the film industry. Designed for producers and investors, the analysis identifies how production scale, audience engagement, and ratings influence a movie's "blockbuster" potential.
 
 📂 Included Files
-Data Analysis TMDB.ipynb: The complete Python workspace containing data cleaning, exploratory data analysis (EDA), and machine learning models.
+TMBD_Movie_Analysis_ipynb: The complete Python workspace containing data cleaning, exploratory data analysis (EDA), and machine learning models.
 
-Movie_Data_Queries.sql: SQL scripts used for data extraction, joining tables, and initial data preparation.
+TMDB_Movie_Analysis_sql: SQL scripts used for data extraction, joining tables, and initial data preparation.
 
-TMDB_Analysis_Presentation.ppt: A 10-slide deck summarizing the methodology, regression results, and strategic findings for stakeholders.
+TMDB_Movie_Analysis.pdf: A 10-slide deck summarizing the methodology, regression results, and strategic findings for stakeholders.
 
 📊 Project Overview
 The analysis uses data from The Movie Database (TMDB) to connect audience-facing metrics with business outcomes.
